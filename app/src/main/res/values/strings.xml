@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GettingStartWithAndroidDemo</string>
+    <string name="hint_enter_username">Enter Username</string>
+    <string name="hint_enter_password">Enter Password</string>
+    <string name="label_gender">Gender:</string>
+    <string name="label_male">Male</string>
+    <string name="label_female">Female</string>
+    <string name="label_other">Other</string>
+    <string name="app_title">Getting started with Android Development</string>
+    <string name="label_register">Register</string>
+    <string name="err_message_must_select_gender">Must select gender</string>
+</resources>
